@@ -10,9 +10,9 @@ Being a freelancer with sole proprietorship, I usually end up with a zillion scr
 
 Generating spreadsheets by analyzing file names requires a system of file labeling. Every reciept and invoice has the same syntax and labeling "code":
 
- ### "01.26.19 3400 430kr.pdf"
+ > "01.26.19 3400 430kr.pdf"
  
-*mm/dd/yy - cost/income category - sum*
+ > *mm/dd/yy - cost/income category - sum*
 
 Section 9910 and 9900 of RF-1175 specifies many different cost and income categories. However, for my simple needs, the system only reads 11 main cost categories and 6 main income categories:
 
