@@ -4,7 +4,7 @@ Being a freelancer with a sole proprietorship, I usually end up with a zillion s
 
 Pictures.
 
-![Inntekt](/img/inntekt.png) 
+![Inntekt](/img/inntekt.png "income speadsheet preview") ![Utgift](/img/utgift.png "expense speadsheet preview")
 
 # How to use
 
