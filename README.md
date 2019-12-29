@@ -1,1 +1,3 @@
-# Accounting-with-MaxMSP
+# Accounting with MaxMSP
+
+Work in progress.
