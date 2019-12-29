@@ -2,9 +2,10 @@
 
 Being a freelancer with a sole proprietorship, I usually end up with a zillion screenshots, pdf´s and photos of various reciepts and invoices every turn of the year. HDJSAJ is a tool which can aid freelancers and small companies working in Norway with e-reciept management and filling out the [Income statement 1](https://www.skatteetaten.no/en/forms/income-statement-1/) ([næringsoppgave 1](https://www.skatteetaten.no/skjema/naringsoppgave-1/)) RF-1175, by using images file names to generate income and expense spreadsheets.
 
-Pictures.
+Income spreadsheet preview |  Income spreadsheet preview
+:-------------------------:|:-----------------------------:
+![income](/img/inntekt.png)  |  ![Utgift](/img/utgift.png)
 
-![Inntekt](/img/inntekt.png "income speadsheet preview") ![Utgift](/img/utgift.png "expense speadsheet preview")
 
 # How to use
 
