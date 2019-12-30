@@ -6,7 +6,9 @@ Being a freelancer with sole proprietorship, I usually end up with a zillion scr
 
 ![income](/img/inntekt.png "Income spreadsheet preview")  
 
-## How to use
+# How to use
+
+## 1. Labeling
 
 Generating spreadsheets by analyzing file names requires a system of file labeling. Every reciept and invoice has the same syntax and labeling "code":
 
@@ -14,7 +16,7 @@ Generating spreadsheets by analyzing file names requires a system of file labeli
  
  > *mm/dd/yy - cost/income category - sum*
 
-Section 9910 and 9900 of RF-1175 specifies many different cost and income categories. However, for my simple needs, the system only reads 11 main cost categories and 6 main income categories:
+Section 9910 and 9900 of RF-1175 specifies many different cost and income categories. However, due to my fairly simple needs, this program only reads 11 cost categories and 6 income categories:
 
 |           9910 - operating costs                         |           9900 - operating income   |            
 |----------------------------------------------------------|:-----------------------------------:|            
@@ -32,9 +34,8 @@ Section 9910 and 9900 of RF-1175 specifies many different cost and income catego
 | 7080 - Bilkostnader. Bruk av bil i næring                | 
 
 
+## Drag & Drop
 
-
-1. Specific file names. (kategorier)
 
 2. Import folder into app
 
