@@ -33,5 +33,6 @@ Generating spreadsheets by analyzing file names requires a system of file labeli
 
 After your´re done labeling your files, you can now drag and drop the entire folder onto the apps UI. By clicking "Eksporter" your spreadsheets will be generated as .csv files in your source folder. From here, you can import the spreadsheets in any other program (excel, google sheets etc.), for further formatting. 
 
+![process](/img/process.gif)
 
-insert gif
+Happy accounting!
