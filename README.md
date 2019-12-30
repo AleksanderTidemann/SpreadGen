@@ -1,8 +1,6 @@
 # Accounting with MaxMSP
 
-This is a tool which can aid norwegian based freelancers and small business owners in filling out their [Income statement 1](https://www.skatteetaten.no/en/forms/income-statement-1/) ([næringsoppgave 1](https://www.skatteetaten.no/skjema/naringsoppgave-1/)) RF-1175, by using image file names to generate spreadsheets.
-
-Being a freelancer with sole proprietorship, I usually end up with a zillion screenshots, pdf´s and photos of reciepts and invoices every turn of the year. I therefore made this app to help organize and streamline my accounting in accordance with the RF-1175 operating income and cost sections 9910 and 9900.
+This tool is designed to aid norwegian based freelancers and small business owners fill out their [Income statement 1](https://www.skatteetaten.no/en/forms/income-statement-1/) RF-1175 ([næringsoppgave 1](https://www.skatteetaten.no/skjema/naringsoppgave-1/)), by using image file names to generate spreadsheets. Being a freelancer with sole proprietorship, I usually end up with a zillion screenshots, pdf´s and photos of reciepts and invoices every turn of the year. I therefore made this app to help organize and streamline my accounting. Hopefully it might help others in similar conditions. 
 
 ![income](/img/inntekt.png "Income spreadsheet preview")  
 
@@ -14,9 +12,7 @@ Generating spreadsheets by analyzing file names requires a system of file labeli
 
  > "01.26.19 3400 430kr.pdf"
  
- > *mm/dd/yy - cost/income category - sum*
-
-Section 9910 and 9900 of RF-1175 specifies many different cost and income categories. However, due to my fairly simple needs, this program only reads 11 cost categories and 6 income categories:
+ The formatting is as such; *mm/dd/yy - cost/income category - sum*. Section 9910 and 9900 of the RF-1175 form specifies many cost and income categories. However, due to my fairly simple needs, this program only reads 11 cost categories and 6 income categories:
 
 |           9910 - operating costs                         |           9900 - operating income   |            
 |----------------------------------------------------------|:-----------------------------------:|            
@@ -32,7 +28,6 @@ Section 9910 and 9900 of RF-1175 specifies many different cost and income catego
 | 7700 - annen kostnad                                     | 
 | 7098 - privat bruk av elektronisk kommunikasjon          | 
 | 7080 - Bilkostnader. Bruk av bil i næring                | 
-
 
 ## Drag & Drop
 
