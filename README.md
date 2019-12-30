@@ -29,15 +29,9 @@ Generating spreadsheets by analyzing file names requires a system of file labeli
 | 7098 - privat bruk av elektronisk kommunikasjon          | 
 | 7080 - Bilkostnader. Bruk av bil i næring                | 
 
-## Drag & Drop
+## 2 Drag & Drop
 
-
-2. Import folder into app
-
-3. Click "eksporter". .csv format in source folder. 
+After your´re done labeling your files, you can now drag and drop the entire folder onto the apps UI. By clicking "Eksporter" your spreadsheets are generated as .csv format files in your source folder. From here, you can import the files in any spreadsheet program of your liking (excel, google sheets etc.). 
 
 
 insert gif
-
-
-* App is in norwegian, but the income and expense category codes are the same. 
