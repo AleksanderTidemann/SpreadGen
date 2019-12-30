@@ -12,7 +12,7 @@ Generating spreadsheets by analyzing file names requires a system of file labeli
 
  > "01.26.19 3400 430kr.pdf"
  
- The formatting is as such; *mm/dd/yy - cost/income category - sum*. Section 9910 and 9900 of the RF-1175 form specifies many a whole variety of cost and income categories. However, due to my fairly simple needs, this program only reads a general selections of income and cost categories:
+ The formatting is as such; *mm/dd/yy - cost/income category - sum*. Section 9910 and 9900 of the RF-1175 form specifies a whole variety of cost and income categories. However, due to my fairly simple needs, this program only reads a general selections of income and cost categories:
 
 |           9910 - operating costs                         |           9900 - operating income   |            
 |----------------------------------------------------------|:-----------------------------------:|            
@@ -31,7 +31,7 @@ Generating spreadsheets by analyzing file names requires a system of file labeli
 
 ## 2 Drag & Drop
 
-After your´re done labeling your files, you can now drag and drop the entire folder onto the apps UI. By clicking "Eksporter" your spreadsheets will be generated as .csv files in your source folder. From here, you can import the spreadsheets in any other program of your liking (excel, google sheets etc.), for further formatting. 
+After your´re done labeling your files, you can now drag and drop the entire folder onto the apps UI. By clicking "Eksporter" your spreadsheets will be generated as .csv files in your source folder. From here, you can import the spreadsheets in any other program (excel, google sheets etc.), for further formatting. 
 
 
 insert gif
