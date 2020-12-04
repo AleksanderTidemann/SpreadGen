@@ -12,7 +12,7 @@ Every reciept and invoice has the same syntax and labeling "code":
 
  > "01.26.19 3400 430kr.pdf"
  
-The formatting is as such; *mm/dd/yy - cost/income category - sum*. Section 9910 and 9900 of the RF-1175 form specifies a whole variety of cost and income categories. However, due to my fairly simple needs, this program only reads a general selections of income and cost categories:
+The formatting is as such; *mm/dd/yy - cost/income category - sum*. Section 9910 and 9900 of the RF-1175 form specifies a whole variety of cost and income categories. However, due to my fairly simple needs, this program only supports a general selections of these categories:
 
 |           9910 - operating costs                         |           9900 - operating income   |            
 |----------------------------------------------------------|:-----------------------------------:|            
