@@ -2,7 +2,7 @@
 
 ## Accounting in MaxMSP
 
-This tool is designed to aid norwegian based freelancers and small business owners fill out their [Income statement 1](https://www.skatteetaten.no/en/forms/income-statement-1/) RF-1175 ([næringsoppgave 1](https://www.skatteetaten.no/skjema/naringsoppgave-1/)), by using image file names to generate spreadsheets. Being a freelancer with sole proprietorship, I usually end up with a zillion screenshots, pdf´s and photos of reciepts and invoices every turn of the year. I made this app with MaxMSP 8 to help organize and streamline my accounting. Hopefully it might help others in similar situations. 
+Tool designed to aid norwegian-based freelancers and small business owners fill out their [Income statement 1](https://www.skatteetaten.no/en/forms/income-statement-1/) RF-1175 ([næringsoppgave 1](https://www.skatteetaten.no/skjema/naringsoppgave-1/)), by using image filenames to generate spreadsheets.
 
 ![income](/img/inntekt.png "Income spreadsheet preview")  
 
@@ -10,11 +10,11 @@ This tool is designed to aid norwegian based freelancers and small business owne
 
 ## 1. Labeling
 
-Generating spreadsheets by analyzing file names requires a system of file labeling. Every reciept and invoice has the same syntax and labeling "code":
+Every reciept and invoice has the same syntax and labeling "code":
 
  > "01.26.19 3400 430kr.pdf"
  
- The formatting is as such; *mm/dd/yy - cost/income category - sum*. Section 9910 and 9900 of the RF-1175 form specifies a whole variety of cost and income categories. However, due to my fairly simple needs, this program only reads a general selections of income and cost categories:
+The formatting is as such; *mm/dd/yy - cost/income category - sum*. Section 9910 and 9900 of the RF-1175 form specifies a whole variety of cost and income categories. However, due to my fairly simple needs, this program only reads a general selections of income and cost categories:
 
 |           9910 - operating costs                         |           9900 - operating income   |            
 |----------------------------------------------------------|:-----------------------------------:|            
@@ -33,7 +33,7 @@ Generating spreadsheets by analyzing file names requires a system of file labeli
 
 ## 2 Drag & Drop
 
-After your´re done labeling your files, you can now drag and drop the entire folder onto the apps UI. By clicking "Eksporter" your spreadsheets will be generated as .csv files in your source folder. From here, you can import the spreadsheets in any other program (excel, google sheets etc.), for further formatting. 
+You can now drag and drop the entire folder onto the apps UI. By clicking "Eksporter" your spreadsheets will be generated as .csv files in the root dir.
 
 ![process](/img/process.gif)
 
