@@ -1,6 +1,6 @@
 # Accounting in MaxMSP
 
-Tool designed to aid norwegian-based freelancers and small business owners fill out their [Income statement 1](https://www.skatteetaten.no/en/forms/income-statement-1/) RF-1175 ([næringsoppgave 1](https://www.skatteetaten.no/skjema/naringsoppgave-1/)), by using image filenames to generate spreadsheets.
+Tool designed to aid norwegian-based freelancers and small business owners fill out their [Income statement 1](https://www.skatteetaten.no/en/forms/income-statement-1/) RF-1175 ([næringsoppgave 1](https://www.skatteetaten.no/skjema/naringsoppgave-1/)). Uses document filenames to generate spreadsheets.
 
 ![income](/img/inntekt.png "Income spreadsheet preview")  
 
